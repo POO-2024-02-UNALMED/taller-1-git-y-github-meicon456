@@ -1,6 +1,4 @@
 <<<<<<< HEAD
 cuando cree la carpeta archivos no me permitio hacer el commit , porque estoy creando un archivo lo cual github si considera para hacer un commit y no una carpeta vacia
 jose alejandro castro rey 19 años mis aspiraciones con la materia son poder aprender todo lo que pueda y mejorar mis habilidades de programacion.
-lo que paso con la carpeta archivos es que no me dejo hacer un commit debido a que una carpeta vacia no la onsidera un archivo, ahora puedo crear un commit y subir la carpeta ya que tiene archivos
->>>>>>> 97b7c2ec99c3b21d2a22e4714a99e9a8e8166fad
- es importante tener cuidado al modificar un archivo desde diferentes direcciones debido a que puede generar conflictos y no gaurdarse correctamente
+es importante tener cuidado al modificar un archivo desde diferentes direcciones debido a que puede generar conflictos y no gaurdarse correctamente
