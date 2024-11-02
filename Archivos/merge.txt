@@ -1,0 +1,1 @@
+lo que paso con la carpeta archivos es que no me dejo hacer un commit debido a que una carpeta vacia no la onsidera un archivo, ahora puedo crear un commit y subir la carpeta ya que tiene archivos
