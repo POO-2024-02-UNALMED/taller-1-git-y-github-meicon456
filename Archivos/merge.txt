@@ -1,1 +1,2 @@
 cuando cree la carpeta archivos no me permitio hacer el commit , porque estoy creando un archivo lo cual github si considera para hacer un commit y no una carpeta vacia
+jose alejandro castro rey 19 años mis aspiraciones con la materia son poder aprender todo lo que pueda y mejorar mis habilidades de programacion.
